@@ -50,7 +50,7 @@ router.post('/', async (req, res) => {
   // create a new tag
 
 
-router.put('/:id', (req, res) => {
+router.put('/:id', async(req, res) => {
   try {
     const tagData = await Tag.update(req.body, {
       where: {
@@ -70,7 +70,7 @@ router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
 
 
-router.delete('/:id', (req, res) => {
+router.delete('/:id', async(req, res) => {
     try {
       const tagData = await Tag.destroy({
         where: {
