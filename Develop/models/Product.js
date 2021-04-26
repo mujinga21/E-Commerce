@@ -19,7 +19,7 @@ Product.init(
       product_name: {
         type: DataTypes.STRING,
         allowNull: false,
-        defaultValue: "unnamed"
+      
       },
       price: {
        type: DataTypes.FLOAT,
@@ -30,7 +30,7 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      defaultValue: 0
+      defaultValue: 10
     },
     category_id: {
 
