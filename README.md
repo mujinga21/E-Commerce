@@ -14,4 +14,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
+
 everything works fine except for problem loading seeds into schema.   
+
+link to video: https://drive.google.com/file/d/10dwSXOFlo6y2wTVLNQsYaM6t4YIJ6JD3/view?usp=sharing
