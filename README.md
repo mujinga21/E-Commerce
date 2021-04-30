@@ -17,4 +17,5 @@ THEN I am able to successfully create, update, and delete data in my database
 
 everything works fine except for problem loading seeds into schema.   
 
-link to video: https://drive.google.com/file/d/10dwSXOFlo6y2wTVLNQsYaM6t4YIJ6JD3/view?usp=sharing
+link to video: https://drive.google.com/file/d/1j1nRq53ZZoUQ0Lt0GWFHN0tcQc8pY3jY/view?usp=sharing
+https://drive.google.com/file/d/1x8T7uZgrA7sqYDXKP3g7ZRJrS4DLv1Em/view?usp=sharing
